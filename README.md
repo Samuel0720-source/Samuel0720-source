@@ -4,7 +4,7 @@ Biomedical Engineering (Co-op) at the University of Waterloo. I build software t
 
 ## Projects
 
-**[finger-color](https://github.com/Samuel0720-source/finger-color)** · [live](https://finger-color.vercel.app)
+**[Camera Hand-Symptom Checker](https://github.com/Samuel0720-source/finger-color)** · [live](https://finger-color.vercel.app)
 A browser app that checks hand symptoms for Raynaud's, trigger finger and carpal tunnel with a phone camera (MediaPipe hand landmarks, CIELAB colour change, 3D joint angles) against published clinical criteria. Pre-registered validation: a 3-person pilot against a goniometer, with the failed pass rules reported as they are.
 `JavaScript` `MediaPipe` `Vite` `Python analysis` `Vercel serverless`
 
